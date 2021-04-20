@@ -26,21 +26,32 @@ NS3 version: NS3 version 3.25
 3 - Install Oracle VM VirtualBox 
 
 4 - Install Ubuntu 16.04.4  in VirtualBox
-> If the system options do not appear to you with 64 bit architecture, you must activate Virtualization from the BIOS
+> If the system options do not appear to you with 64-bit architecture, you must activate Virtualization from the BIOS
 
-5 - From Ubuntu: Download the ns3 tool version 3.25 from [link](https://www.nsnam.org/releases/ns-3-25/download/)
+5 - From Ubuntu: Download and install required packages, from these commands in terminal 
 
-6  - Move the file to Desktop or any plase you want, then click on right press in mouse to option [ open in Terminal ]
+      sudo apt update
+    
+     ./build.py --enable-examples --enable-tests
 
-7 - Extract the file by command
+6 - From Ubuntu: Download the ns3 tool version 3.25 from [link](https://www.nsnam.org/releases/ns-3-25/download/)
+
+7  - Move the file to Desktop or any place you want, then click on the right press in mouse to option [ open in Terminal ]
+
+8 - Extract the file by command
 
     tar jxvf ns-allione-3.25.tar.bz2
     
-8 - Open the folder and bulid  the tool
+9 - Open the folder and build  the tool
 
-      cd ns-allinone-3.27/
+      cd ns-allinone-3.25/
     
-     ./build.py --enable-examples --enable-tests
+     sudo apt-get install build-essential autoconf automake libxmu-dev python-pygoocanvas python-pygraphviz cvs mercurial bzr git cmake p7zip-full python-matplotlib python-tk python-dev python-kiwi python-gnome2 python-gnome2-desktop-dev python-rsvg qt4-dev-tools qt4-qmake qt4-qmake qt4-default gnuplot-x11 wireshark
+     
+ Then enter Y to confirm download
+     
+     > Do not worry when you do not see the password 👀 when you are typing, this is a safety measure in Linux systems 😁
+     
      
    Congratulations 🎉! The tool has been installed after waiting for the installation ⏰
    

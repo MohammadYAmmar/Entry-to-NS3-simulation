@@ -61,6 +61,8 @@ You are ready to understand how to run examples! ✨
 
 The team has made an illustration of the scientific one as follows:
 
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/GIF%20Steps%20animation%20to%20run%20examples.gif "GIF Steps animation to run examples")
+
 
 Whereas, the files, whether in the C ++ language or Python in order to play them, must be copied to the Scratch folder at the beginning!
 

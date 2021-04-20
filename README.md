@@ -59,5 +59,13 @@ You are ready to understand how to run examples! ✨
 
 ## Running examples included with the tool
 
+The team has made an illustration of the scientific one as follows:
 
 
+Whereas, the files, whether in the C ++ language or Python in order to play them, must be copied to the Scratch folder at the beginning!
+
+After that, to run in a graphical manner, write the command as follows
+
+    ./waf --run scratch/[program]  --vis
+
+We will continue the rest after the discussion today 🔜

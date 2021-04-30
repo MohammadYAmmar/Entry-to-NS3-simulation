@@ -80,5 +80,9 @@ Whereas, the files, whether in the C ++ language or Python in order to play them
 After that, to run in a graphical manner, write the command as follows
 
     ./waf --run scratch/[program]  --vis
+    
+# Examples of running example
+Simulation run experience
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/GIF%20run%20wifi%20adhoc%20edit1.gif "GIF Steps to run adhoc")
 
 We will continue the rest after the discussion today 🔜

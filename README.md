@@ -118,6 +118,13 @@ The the process in GIF
 
 # Performance metrics on Third
 
+At first, this is the result of running the file without modification
+
+During work, there was a meeting via Microsoft Times with Ahmed and Thamer :)
+
+![alt text]( "GIF of thrid")
+
+
 To activate the possibility of modification, we have done many options, as we note in this picture, such as increasing the time
 
 ![alt text]( "Picture 1 of thrid")
@@ -136,13 +143,14 @@ But after enable will be
 
 
 # Trace metrics
-This tool was used and built in Java
+This tool was used and built-in Java
 This is the tool experience for the third example of the tool
 
 [Trace metrics](https://sourceforge.net/projects/tracemetrics/
 )
 
-The tools need download Jave JRE
+The tools need to download Jave JRE by the command in terminal
+
 `sudo apt install default-jre`
 
 ![alt text]( "GIF OF Trace metrics")

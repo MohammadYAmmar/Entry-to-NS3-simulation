@@ -111,7 +111,7 @@ In addition to placing places for them and assigning them to them. from 2 nodes 
   positionAlloc->Add (Vector (15.0, 15.0, 15.0));
   positionAlloc->Add (Vector (20.0, 20.0, 20.0));`
 
-https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Video%20Modification%20in%20Ad-hoc.MP4
+   ![alt text]( "Modification in Ad-hoc")
 
 
 # Performance metrics on Third

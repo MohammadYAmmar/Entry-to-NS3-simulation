@@ -103,7 +103,9 @@ In addition to placing places for them and assigning them to them. from 2 nodes 
   positionAlloc->Add (Vector (5.0, 6.0, 7.0));
 positionAlloc->Add (Vector (3.0, 3.0, 5.0));
 */`
+
 to
+
 `positionAlloc->Add (Vector (0.0, 1.0, 1.0));
   positionAlloc->Add (Vector (5.0, 5.0, 5.0));
   positionAlloc->Add (Vector (10.0, 10.0, 10.0));
@@ -116,4 +118,31 @@ The the process in GIF
 
 # Performance metrics on Third
 
-🔜
+To activate the possibility of modification, we have done many options, as we note in this picture, such as increasing the time
+
+![alt text]( "Picture 1 of thrid")
+
+Then allow the creation of a third of the new files
+
+![alt text]( "Picture 2 of thrid")
+
+
+`// bool tracing = false;`
+
+But after enable will be
+ ` bool tracing = true;`
+
+
+
+
+# Trace metrics
+This tool was used and built in Java
+This is the tool experience for the third example of the tool
+
+[Trace metrics](https://sourceforge.net/projects/tracemetrics/
+)
+
+The tools need download Jave JRE
+`sudo apt install default-jre`
+
+![alt text]( "GIF OF Trace metrics")

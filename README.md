@@ -90,5 +90,29 @@ We will continue the rest after the discussion today 🔜 (Actually  🔜 = Afte
 
 # WIFI Ad Hoc
 
-🔜
+The beginning of the mods is to increase the number of noods from 2 to 5
+
+`NodeContainer c;
+  c.Create (2); //old
+  c.Create (5);`
+
+In addition to placing places for them and assigning them to them. from 2 nodes to 5
+
+`/*
+  positionAlloc->Add (Vector (0.0, 1.0, 2.0));
+  positionAlloc->Add (Vector (5.0, 6.0, 7.0));
+
+  positionAlloc->Add (Vector (3.0, 3.0, 5.0));
+*/
+  positionAlloc->Add (Vector (0.0, 1.0, 1.0));
+  positionAlloc->Add (Vector (5.0, 5.0, 5.0));
+
+  positionAlloc->Add (Vector (10.0, 10.0, 10.0));
+  positionAlloc->Add (Vector (15.0, 15.0, 15.0));
+  positionAlloc->Add (Vector (20.0, 20.0, 20.0));`
+
+  #todo video to GIF
+
+
+# Performance metrics on Third
 

@@ -174,8 +174,38 @@ Because of that, I'm thinking of doing a shell script to install the version wit
 
 A picture during the installation of the tool in the Thamer device
 
-![alt text]( "A picture of the installation by Thamer")
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/A%20picture%20of%20the%20installation%20by%20Thamer.png "A picture of the installation by Thamer")
 
 
+--- 
+# Contact 
 
+Mohammad Yaser Ammar
+
+GitHub: https://github.com/MohammadYAmmar
+
+LinkedIn: https://www.linkedin.com/in/mohammad-y-ammar/
+
+--- 
+Thamer Saleh Al-Mutairi 
+
+GitHub: https://github.com/thamer122
+
+LinkedIn: https://www.linkedin.com/in/thamer-almutairi-7b0b141b8/
+
+--- 
+Ahmed Ibrahim Elegl
+
+GitHub: https://github.com/Ahmedie98 
+
+LinkedIn: https://www.linkedin.com/in/ahmed-elegl-815668192/
+
+
+---
+
+If you have seen the description and codes with design, can you recommend my Verilog or Quartus programming skills on LinkedIn? :)
+
+Do not forget to give the project a star ⭐🌟 to encourage us to continue if you liked it.
+
+Thank you for reading all of this to benefit you instead of just copying and pasting ✂!
 

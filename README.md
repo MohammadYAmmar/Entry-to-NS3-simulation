@@ -203,7 +203,7 @@ LinkedIn: https://www.linkedin.com/in/ahmed-elegl-815668192/
 
 ---
 
-If you have seen the description and codes with design, can you recommend my Verilog or Quartus programming skills on LinkedIn? :)
+If you have seen the description and codes with design, can you recommend our skills on LinkedIn? :)
 
 Do not forget to give the project a star ⭐🌟 to encourage us to continue if you liked it.
 

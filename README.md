@@ -154,3 +154,28 @@ The tools need to download Jave JRE by the command in terminal
 `sudo apt install default-jre`
 
 ![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/GIF%20Trace%20matrics.gif "GIF OF Trace metrics")
+
+
+# Challenges
+- It was hard to install the tool
+- It was a challenge for us to start the simulation
+- Other tool for performance matrices like with java
+
+# Versions
+| Versions  | Run visual simulate by group |
+| ------------- | ------------- |
+| 3.33  | ❎  |
+| 3.31  | ❎  |
+| 3.29  | ❎  |
+| 3.27  | ❎  |
+| 3.25  | ✅  |
+
+Because of that, I'm thinking of doing a shell script to install the version with simple steps soon, God willing 🔜
+
+A picture during the installation of the tool in the Thamer device
+
+![alt text]( "A picture of the installation by Thamer")
+
+
+
+

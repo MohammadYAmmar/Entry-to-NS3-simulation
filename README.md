@@ -72,7 +72,7 @@ You are ready to understand how to run examples! ✨
 
 The team has made an illustration of the scientific one as follows:
 
-![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/GIF%20Steps%20animation%20to%20run%20examples.gif "GIF Steps animation to run examples")
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/GIF%20Steps%20animation%20to%20run%20examples.gif "GIF Steps animation to run examples")
 
 
 Whereas, the files, whether in the C ++ language or Python in order to play them, must be copied to the Scratch folder at the beginning!
@@ -84,7 +84,7 @@ After that, to run in a graphical manner, write the command as follows
 # Examples of running example
 Simulation run experience
 
-![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/GIF%20run%20wifi%20adhoc%20edit1.gif "GIF Steps to run adhoc")
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/GIF%20run%20wifi%20adhoc%20edit1.gif "GIF Steps to run adhoc")
 
 We will continue the rest after the discussion today 🔜 (Actually  🔜 = After 4 months :) )
 
@@ -113,7 +113,7 @@ to
   positionAlloc->Add (Vector (20.0, 20.0, 20.0))`
 
 The the process in GIF
-   ![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/GIF%20Modification%20Ad-hoc.gif "Modification in Ad-hoc")
+   ![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/GIF%20Modification%20Ad-hoc.gif "Modification in Ad-hoc")
 
 
 # Performance metrics on Third
@@ -122,16 +122,16 @@ At first, this is the result of running the file without modification
 
 During work, there was a meeting via Microsoft Times with Ahmed and Thamer :)
 
-![alt text]( "GIF of thrid")
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/GIF%20of%20thrid.gif "GIF of thrid")
 
 
 To activate the possibility of modification, we have done many options, as we note in this picture, such as increasing the time
 
-![alt text]( "Picture 1 of thrid")
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/Picture%201%20of%20thrid.png "Picture 1 of thrid")
 
 Then allow the creation of a third of the new files
 
-![alt text]( "Picture 2 of thrid")
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/Picture%202%20of%20thrid.png "Picture 2 of thrid")
 
 
 `// bool tracing = false;`
@@ -153,4 +153,4 @@ The tools need to download Jave JRE by the command in terminal
 
 `sudo apt install default-jre`
 
-![alt text]( "GIF OF Trace metrics")
+![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/Pictures%20and%20GIF%20using%20in%20ReadMe/GIF%20Trace%20matrics.gif "GIF OF Trace metrics")

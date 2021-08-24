@@ -101,18 +101,19 @@ In addition to placing places for them and assigning them to them. from 2 nodes 
 `/*
   positionAlloc->Add (Vector (0.0, 1.0, 2.0));
   positionAlloc->Add (Vector (5.0, 6.0, 7.0));
-
-  positionAlloc->Add (Vector (3.0, 3.0, 5.0));
-*/
-  positionAlloc->Add (Vector (0.0, 1.0, 1.0));
+positionAlloc->Add (Vector (3.0, 3.0, 5.0));
+*/`
+to
+`positionAlloc->Add (Vector (0.0, 1.0, 1.0));
   positionAlloc->Add (Vector (5.0, 5.0, 5.0));
-
   positionAlloc->Add (Vector (10.0, 10.0, 10.0));
   positionAlloc->Add (Vector (15.0, 15.0, 15.0));
-  positionAlloc->Add (Vector (20.0, 20.0, 20.0));`
+  positionAlloc->Add (Vector (20.0, 20.0, 20.0))`
 
-   ![alt text]( "Modification in Ad-hoc")
+The the process in GIF
+   ![alt text](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation/blob/main/GIF%20Modification%20Ad-hoc.gif "Modification in Ad-hoc")
 
 
 # Performance metrics on Third
 
+🔜
